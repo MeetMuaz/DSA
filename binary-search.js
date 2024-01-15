@@ -23,3 +23,6 @@ function binarySearch(arr, target) {
 print(binarySearch([-5, 2, 4, 6, 10], 10)); // 4
 print(binarySearch([-5, 2, 4, 6, 10], 6)); // 3
 print(binarySearch([-5, 2, 4, 6, 10], 20)); // -1
+
+// Big-O = O(logn) 
+// IT IS LOGRITHMIC
